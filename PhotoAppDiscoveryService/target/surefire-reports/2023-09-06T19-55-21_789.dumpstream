@@ -1,0 +1,5 @@
+# Created at 2023-09-06T19:55:23.938
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Java Workspaces\Java-17-Workspaces\Spring-security-learning\Microservices\Microservices-1\PhotoAppDiscoveryService\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
